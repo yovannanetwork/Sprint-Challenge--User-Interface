@@ -197,6 +197,57 @@ footer nav a {
 }
 
 
+/*   ABOUT  */
+
+#about{
+    padding: 20px;
+    border-bottom: 1px dashed #000;
+}
+
+/* FLEX-BOXES   */
+.flex-boxes .flex{
+    width: 345px;
+    margin: 20px;
+    border-bottom: 1px dashed #000;
+}
+.flex-boxes{
+    display: flex;
+    flex-flow: wrap;
+    padding: 20px 10px;
+    justify-content: flex-start;
+}
+.flex-boxes .flex img{
+    width: 350px;
+}
+.flex-boxes .flex h2{
+    padding-top: 20px;
+}
+.flex-boxes .flex button{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px 25px;
+    border: 2px solid #000;
+    margin: 20px 0;
+}
+.flex-boxes .flex button a{
+    text-decoration: none;
+    font-size: 15px;
+    color: #000;
+}
+
+.together{
+    padding: 10px 25px 30px 25px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
